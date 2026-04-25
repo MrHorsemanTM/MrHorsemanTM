@@ -1,16 +1,14 @@
-## Hi there 👋
+## Merhaba, ben Kerem Menteşe
 
-<!--
-**MrHorsemanTM/MrHorsemanTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Arel Üniversitesi Bilgisayar Mühendisliği Bölümü'nün 210309029 numaralı öğrencisiyim.
+Bölümüm kapsamında:
+-Donanım & Mimariler
+-Socket Programlama(TCP/UDP)
+-Uygulama ve Yazılım geliştirme
+konularına ilgi duyuyorum
+Şu anda arkdaşlarımızla geliştirdiğimiz PatiBul adında bir uygulama üzerinde çalışıyorum
+Bunlar dışında:
+-Bilgisayar oyunlarına
+-Müzik dinlemek ve enstruman çalmaya
+-Film-Dizi izlemeye
+ilgim var
